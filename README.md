@@ -1,4 +1,4 @@
-This is an exercise to map users with their favorite movies using [function components] (https://reactjs.org/docs/components-and-props.html#function-and-class-components).
+This is an exercise to map users with their favorite movies using [function components](https://reactjs.org/docs/components-and-props.html#function-and-class-components).
 
 To install and run the project just go to the root path of the repository and type:
 
